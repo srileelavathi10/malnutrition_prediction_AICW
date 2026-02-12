@@ -1,7 +1,17 @@
-scikit-learn==1.8.0
-numpy
-pandas
+# Streamlit for the web app
 streamlit==1.19.0
-joblib
+
+# Machine Learning
+scikit-learn==1.8.0
+joblib==1.5.3
+
+# Data handling
+numpy==1.26.0
+pandas==3.0.0
+
+# Charts (used internally by Streamlit)
+altair==6.0.0
+
+
 
 
